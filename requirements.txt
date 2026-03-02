@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+speechrecognition
+pydub
+streamlit-mic-recorder
+matplotlib
+numpy
+ffmpeg-python
