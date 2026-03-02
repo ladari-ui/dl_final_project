@@ -6,4 +6,9 @@ pydub
 streamlit-mic-recorder
 matplotlib
 numpy
+
 ffmpeg-python
+
+pandas
+
+scikit-learn
